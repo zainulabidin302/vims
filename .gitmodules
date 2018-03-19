@@ -1,0 +1,9 @@
+[submodule "bundle/ultisnips"]
+	path = bundle/ultisnips
+	url = https://github.com/SirVer/ultisnips
+[submodule "bundle/vim-snippets"]
+	path = bundle/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "/home/neo/.vim/bundle/vim-airline"]
+	path = /home/neo/.vim/bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline
